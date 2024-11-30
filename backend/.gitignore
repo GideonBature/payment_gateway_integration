@@ -1,0 +1,6 @@
+# Environment specific
+.env
+
+# Editor directories and files
+node_modules
+dist
