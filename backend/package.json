@@ -12,9 +12,12 @@
     "cors": "^2.8.5",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
-    "flutterwave-node-v3": "^1.1.6"
+    "flutterwave-node-v3": "^1.1.6",
+    "mongoose": "^7.5.0",
+    "node-cron": "^3.0.2"
   },
   "devDependencies": {
+    "@types/node-cron": "^3.0.11",
     "nodemon": "^3.0.1"
   }
 }
